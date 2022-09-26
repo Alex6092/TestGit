@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+#VS user files
+*.user
+*.filters
+
+**/x64/
